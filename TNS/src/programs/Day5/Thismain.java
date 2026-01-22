@@ -1,0 +1,10 @@
+package programs.Day5;
+
+public class Thismain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
